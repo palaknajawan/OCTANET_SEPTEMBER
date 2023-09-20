@@ -13,7 +13,7 @@ body {
   justify-content: center;
   background: url(./pexels-jakson-martins-4061722.jpg) no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: 50%;
   width: 50%;
 }
 
